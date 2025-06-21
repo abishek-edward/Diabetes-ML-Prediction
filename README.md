@@ -54,3 +54,16 @@ A heatmap showing feature correlation:
 ## ▶️ How to Run
 
 1. Install dependencies:
+
+2. Run the script:
+
+3. Model & heatmap image will be saved automatically.
+
+---
+
+## 📬 Author
+
+Abishek Edward  
+ML Intern @ InternPe  
+🔗 [LinkedIn](https://www.linkedin.com/in/abishek-edward)
+
